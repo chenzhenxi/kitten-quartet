@@ -1,0 +1,40 @@
+PODS:
+  - audioplayers (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_sound (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - permission_handler (2.2.0):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayers (from `.symlinks/plugins/audioplayers/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+EXTERNAL SOURCES:
+  audioplayers:
+    :path: ".symlinks/plugins/audioplayers/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  audioplayers: 84f968cea3f2deab00ec4f8ff53358b3c0b3992c
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_sound: 0e8163ceac1e00eb6d894e2ae4641ba726a2c479
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  permission_handler: 976a8a94c3443d23fe33c11e98277d471f0e543d
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
