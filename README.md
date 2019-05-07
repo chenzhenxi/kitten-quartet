@@ -22,9 +22,19 @@ Video tutorial: https://www.youtube.com/watch?v=yZqpcrQXXtU
 4. You could add more kitten by re-do step 1-3. (Recommend to create 3-4 kittens).
 5. Click 'Start quartet', all kittens will be there and singing for you. You can tap on kitten to stop she/he singing.
 
-# License
-
-MIT
 
 ## Screenshots
 
+![1](https://raw.githubusercontent.com/chenzhenxi/kitten-quartet/master/screenshots/1.png)
+
+![2](https://raw.githubusercontent.com/chenzhenxi/kitten-quartet/master/screenshots/2.png)
+
+![3](https://raw.githubusercontent.com/chenzhenxi/kitten-quartet/master/screenshots/3.png)
+
+![4](https://raw.githubusercontent.com/chenzhenxi/kitten-quartet/master/screenshots/4.png)
+
+
+
+# License
+
+MIT
